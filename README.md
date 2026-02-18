@@ -1,5 +1,8 @@
 ## Hi there 👋
+<h1>Steffany Koval</h1>
 
+<p><
+Hello! My name is Steffany Koval and I am high school teacher at Montgomery County Public Schools in Maryland. This is more an about me repo. I am passionate of teaching CS to students and the latest software </p>
 <!--
 **SKoala0925/SKoala0925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
